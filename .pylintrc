@@ -27,4 +27,3 @@ max-nested-blocks: 1
 [DESIGN]
 
 max-statements: 15
-too-complex: 2
