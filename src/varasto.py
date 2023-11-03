@@ -12,6 +12,7 @@ class Varasto:
         else:
             self.saldo = tilavuus
 
+    #returns space left
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
