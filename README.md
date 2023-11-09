@@ -1,5 +1,5 @@
 ## ohtuvarasto
 
-![GHA workflow](https://github.com/Gwasagir/ohtuvarasto/workflows/CI/badge.svg)
+![GHA workflow badge](https://github.com/Gwasagir/ohutvarasto/workflows/CI/badge.svg)
 
 Niko Keurulainen projekti Ohutvarasto
